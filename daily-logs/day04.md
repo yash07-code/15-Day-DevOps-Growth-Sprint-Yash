@@ -1,4 +1,4 @@
-🚀 Day 4 of my 30-Day DevOps Growth Sprint – Getting Hands-On with Kubernetes Core Concepts :
+🚀 Day 4 of my 15-Day DevOps Growth Sprint – Getting Hands-On with Kubernetes Core Concepts :
 Today was all about building a solid foundation in Kubernetes (K8s) – the powerhouse behind modern container orchestration. I didn't just read—I applied it.
 📚 What I Explored:
 1.Pods: The smallest deployable units in Kubernetes. Learned how containers live inside them.
