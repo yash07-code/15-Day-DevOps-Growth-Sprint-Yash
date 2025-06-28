@@ -1,4 +1,4 @@
-🚀 Day 6/30 – DevOps Growth Sprint 🔧
+🚀 Day 6/15 – DevOps Growth Sprint 🔧
  Today, I deployed my containerized application to AWS EKS using eksctl — moving from local Docker to cloud-native Kubernetes!
 
 📌 What I accomplished:
@@ -13,4 +13,4 @@
  "Deploying to EKS feels like leveling up — from Docker to production-grade Kubernetes in the cloud."
 🧰 Tools used:
  eksctl | kubectl | AWS CLI | Kubernetes | Docker
-hashtag#Day6 hashtag#DevOps hashtag#AWS hashtag#EKS hashtag#Kubernetes hashtag#eksctl hashtag#CloudNative hashtag#CI_CD hashtag#DevOpsSprint hashtag#LearningInPublic hashtag#DevOpsEngineer hashtag#30DayChallenge
+
