@@ -1,7 +1,7 @@
-# 30-Day-DevOps-Growth-Sprint-Yash# 🚀 30-Day DevOps Growth Sprint by Yash Suryawanshi
+# 15-Day-DevOps-Growth-Sprint-Yash# 🚀 15-Day DevOps Growth Sprint by Yash Suryawanshi
 
 **Stack Focus:** Jenkins • ArgoCD • AWS EKS • Prometheus • Grafana  
-**Duration:** June 18 – July 17, 2025  
+**Duration:** June 18 – July 3 2025  
 **Goal:** Master production-grade CI/CD pipelines, GitOps delivery, and Kubernetes monitoring.
 
 ---
