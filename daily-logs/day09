@@ -1,0 +1,21 @@
+✅ Day 9/15 - DevOps Challenge
+ 🎯 Monitoring AWS EKS with Prometheus & Grafana
+Today, I took a major step toward production-grade infrastructure by integrating Prometheus and Grafana into my AWS EKS cluster for real-time monitoring and observability. 
+Using the powerful kube-prometheus-stack Helm chart, I deployed:
+✅ Prometheus (metrics scraping & alerting)
+✅ Grafana (dashboard visualizations)
+✅ Alertmanager (failure notifications)
+✅ Node Exporter & kube-state-metrics (deep insights)
+
+🚀 Key outcomes:
+1.Monitored CPU, memory, disk usage at node & pod level
+2.Visualized cluster health with Grafana dashboards
+3.Configured port-forwarding for secure local access
+4.Understood how Prometheus pulls data using service discovery in Kubernetes
+5.Set the foundation for alerting rules, like high CPU usage or failed pods
+
+🎯 Why it matters:
+ 1.Monitoring is a non-negotiable part of any DevOps or SRE workflow. 2.Without metrics, logs, and alerts — we’re flying blind. With Prometheus and Grafana in place, I now have full visibility into:
+3.App health 
+4.Resource bottlenecks 
+5.Cluster usage trends over time
