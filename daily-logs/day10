@@ -1,0 +1,35 @@
+Day 10 of my 15-Day DevOps Growth Sprint 
+ 🚀 Built a Complete CI/CD Pipeline with GitOps Implementation!
+Today I completed a major milestone — a full-fledged CI/CD pipeline integrated with GitOps deployment strategy using ArgoCD + Jenkins + AWS EKS.
+What I Implemented:
+ Infrastructure as Code (IaC)
+ • EC2 instances provisioned using Terraform
+ • Amazon EKS cluster deployed via CloudFormation
+
+CI Pipeline (Jenkins):
+ • GitHub code pull (auto-triggered)
+ • OWASP Dependency Check
+ • SonarQube code quality analysis
+ • Docker image build & push
+ • Trivy vulnerability scanning
+
+CD Pipeline (GitOps using ArgoCD):
+ • Jenkins CD job pushes updated image version to Git
+ • ArgoCD syncs that version to Amazon EKS
+ • Git = single source of truth
+ • Self-healing & auto-sync enabled for robust delivery
+
+Alerts
+ • Email notifications on pipeline status
+ Key Learning:
+ Separating CI and CD responsibilities makes the system more secure, scalable, and maintainable.
+ 🔹 Jenkins handles CI beautifully
+ 🔹 ArgoCD excels with pull-based GitOps CD
+ 🔹 Git becomes the reliable source of deployment truth
+
+🛠 Tech Stack Used:
+ Jenkins | Docker | ArgoCD | AWS EKS | Terraform | CloudFormation | GitHub | Trivy | SonarQube | OWASP
+
+📢 This project shows how modern DevOps + GitOps practices can build secure, production-grade automation pipelines.
+🔥 5 more days to go in this sprint — stay tuned!
+  
