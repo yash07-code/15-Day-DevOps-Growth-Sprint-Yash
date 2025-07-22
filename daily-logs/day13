@@ -1,0 +1,16 @@
+🔔 Day 13/15 – DevOps Challenge: Observability & Proactive Alerting
+In production systems, it's not just about monitoring — it's about knowing when and why things break, before users feel the impact.
+ Today I explored the power of Prometheus + Grafana to set up intelligent alerts for both my CI/CD pipeline and Kubernetes cluster health.
+
+Here’s what I accomplished:
+✅ Configured Prometheus alerting rules to detect pod crashes, high restarts, and Jenkins job failures.
+ ✅ Set up AlertManager to forward notifications to Telegram, and also explored triggering n8n workflows for smart alert handling.
+ ✅ Created Grafana dashboards with real-time graphs and threshold-based alerts (e.g. CPU usage, memory pressure, failed builds).
+ ✅ Practiced writing custom alert expressions like:
+ increase(kube_pod_container_status_restarts_total)
+
+🚨 Now every failure in my DevOps pipeline triggers a real-time alert — no more silent breakdowns.
+ Observability isn't a luxury — it's a necessity for reliability.
+
+Next up: GitOps + Helm + ArgoCD full CI/CD sync 🔄
+ Let’s keep shipping better, faster, safer 🚀
