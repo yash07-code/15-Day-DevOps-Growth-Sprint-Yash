@@ -1,6 +1,6 @@
-🚀 Day 15/15 – DevOps Challenge COMPLETE! 🎯
+Day 15/15 – DevOps Challenge COMPLETE!
 After 15 days of focused learning, hands-on practice, and deep exploration of real-world DevOps tools — I’ve officially completed my 
-hashtag#15DayDevOpsChallenge! 💻☁️⚙️
+hashtag#15DayDevOpsChallenge! 
 Here’s what I’ve learned and implemented:
 ✅ CI/CD Pipeline with Jenkins
  → Built pipelines from scratch with Freestyle & Declarative
@@ -23,7 +23,7 @@ Here’s what I’ve learned and implemented:
  → Used OpenAI to explain build errors in human-friendly language
  → Sent real-time alerts via WhatsApp/Telegram
 
-💡 Key Takeaways:
+   Key Takeaways:
 🔹 Consistency > Motivation
  🔹 Real projects beat theory
  🔹 DevOps is not just tools – it’s culture, automation, feedback, and monitoring
