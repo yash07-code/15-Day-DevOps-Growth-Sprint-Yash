@@ -1,6 +1,6 @@
-# 🗓️ Day 2 – ArgoCD + GitOps Fundamentals
+#  Day 2 – ArgoCD + GitOps Fundamentals
 
-### 🔧 What I Did:
+### What I Did:
 - Understood the GitOps philosophy
 - Installed ArgoCD on Kubernetes cluster
 - Learned ArgoCD architecture:
@@ -12,11 +12,11 @@
 - Explored rollback and health check mechanisms
 - Used ArgoCD Web UI and CLI to sync deployments from Git
 
-### 🔍 Key Takeaways:
+### Key Takeaways:
 - Git is the single source of truth for K8s deployments
 - ArgoCD makes rollbacks & syncs effortless and observable
 - You deploy infrastructure just by pushing to Git — that’s powerful
 
-### 🧱 Next Up:
+### Next Up:
 → Jenkins → DockerHub → ArgoCD → EKS  
 → Full GitOps CI/CD pipeline in action
