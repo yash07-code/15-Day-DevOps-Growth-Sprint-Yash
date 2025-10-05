@@ -1,4 +1,4 @@
-Day 7 of My 15-Day DevOps Growth Sprint – IAM, Security, and EKS 🔐⚙️
+Day 7 of My 15-Day DevOps Growth Sprint – IAM, Security, and EKS 
 Today, I focused on Identity and Access Management (IAM) within the AWS ecosystem — a foundational piece that ensures security and proper 
 permissions when working with services like EKS, EC2, and S3.
 
@@ -13,6 +13,6 @@ Hands-on Work:
 --Created a new EKS cluster using eksctl with IAM roles
 --Linked IAM role with Kubernetes service accounts for secure pod access
 --Tested role-based access and validated secure communication between services
-🔐 Security is not optional—it's baked into the DevOps culture. Today was all about enforcing the principle of least privilege and making sure my EKS workloads only get access to what they truly need.
+--Security is not optional—it's baked into the DevOps culture. Today was all about enforcing the principle of least privilege and making sure my EKS workloads only get access to what they truly need.
 
-🔗 Tools used: eksctl, AWS IAM, kubectl, AWS CLI
+ Tools used: eksctl, AWS IAM, kubectl, AWS CLI
