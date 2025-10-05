@@ -1,6 +1,6 @@
 Day 3 Recap: EKS Mastery Begins
 
-🚀 Topic: AWS EKS + eksctl + kubectl + NodeGroup Essentials
+##Topic: AWS EKS + eksctl + kubectl + NodeGroup Essentials
 Today, I deep-dived into Amazon EKS (Elastic Kubernetes Service)—the managed K8s service by AWS. Here’s what I accomplished:
 What I Learned:
 1.What is EKS and how it simplifies K8s management on AWS.
@@ -17,7 +17,7 @@ Key Tools:
 🔹 kubectl — Cluster management
 🔹 AWS CLI — Authentication & setup
 
-🔒 Learned how to attach IAM roles with least privilege for better security.
+##Learned how to attach IAM roles with least privilege for better security.
 Setup kubectl config using:
 aws eks --region ap-south-1 update-kubeconfig --name devops-cluster
 
