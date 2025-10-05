@@ -1,10 +1,11 @@
  Day 5: Kubernetes Secrets & ConfigMaps Mastered!
 🗓#Day5 of my 15-Day DevOps Sprint
 Today, I dove deep into two core building blocks of Kubernetes app configuration:
-🔐 Kubernetes Secrets
+
+##Kubernetes Secrets
  I learned how to securely store sensitive data like API keys, passwords, and tokens in base64-encoded form. From creating secrets via kubectl to mounting them as environment variables or volumes — I now understand how to keep credentials safe and separate from code.
 
-⚙️ Kubernetes ConfigMaps
+##Kubernetes ConfigMaps
  ConfigMaps taught me the DevOps way of externalizing environment-specific configuration (like config files, DB URLs, and feature flags) so the same app code works across environments (dev/stage/prod) with ease.
 
 ✅ Hands-on:
